@@ -1,4 +1,5 @@
-🚀 Meu Portfólio Pessoal - Bruna Veras
+🚀 Meu Portfólio Pessoal
+Bruna Veras
 Este projeto é o resultado do meu amadurecimento como desenvolvedora e marca um ponto importante na minha jornada técnica: a transição do CSS tradicional para o Tailwind CSS.
 
 🧠 Minha Evolução Técnica
